@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manu-Tyagi90
-- 👀 I’m interested in WEB Development & Python Development
+- 👀 I’m interested in Machine Learning & Python Development
 - 🌱 I’m currently learning Bootstraps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
