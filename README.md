@@ -1,6 +1,6 @@
 ## Manu | Java Enthusiast 🚀
 
-👋 Hey there! I'm Manu, a passionate coder and coffee aficionado. When I'm not sipping on a cup of freshly brewed Java (both the language and the beverage), you'll find me diving into the world of code.
+👋 Hey there! I’m Manu, an enthusiastic programmer who also happens to be a coffee lover. When I'm not sipping on a cup of freshly brewed Java (both the language and the beverage), you'll find me diving into the world of code.
 
 ### About Me
 
