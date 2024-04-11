@@ -14,7 +14,7 @@ I thrive on solving puzzles and turning caffeine into code. Whether it's buildin
 
 ### Projects I'm Excited About
 
-1. **Library-Mgmnt-System**: A Java project using MySQL, Window Builder, and JDBC can be used to create a desktop application that interacts with a MySQL database.
+1. **Library-Mgmnt-System**: A Java project using MySQL, Window Builder, and JDBC was used to create a desktop application that interacts with a MySQL database.
 2. **Simple-Bricks-Breaker-Game-in-Java-using-Java-Swing**: The objective of Bricks Breaker is straightforward: use a paddle to bounce a ball towards a formation of bricks to break them and score points.
 3. **Weather-App-Jakarta-EE**:WeatherApp is a Java-based web application that provides real-time weather forecasts and meteorological insights.
 ### Connect with Me
