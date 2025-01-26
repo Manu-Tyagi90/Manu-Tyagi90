@@ -22,5 +22,5 @@ I thrive on solving puzzles and turning caffeine into code. Whether it's buildin
 
 🌐 https://www.linkedin.com/in/thoughtful-manu/
 📧 manutygii90@gmail.com
-🌐 https://chimerical-marigold-d705a9.netlify.app/
+🌐 https://manu-tyagi90.github.io/portfolio/
 Remember, code is poetry, and bugs are just misunderstood features. Let's build something awesome together! 🌟
